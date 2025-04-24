@@ -2,7 +2,7 @@
 
 This project implements Dijkstra's algorithm to find the shortest path between two points on a large-scale road network. It was developed as part of a larger algorithms assignment focusing on graphs.
 
-The program is designed to handle real-world graph data, specifically the complete California road network dataset from the 9th DIMACS Implementation Challenge.
+The program is designed to handle real-world graph data, specifically the complete California road network dataset from the [9th DIMACS Implementation Challenge](http://www.diag.uniroma1.it/challenge9/).
 
 ## Features
 
